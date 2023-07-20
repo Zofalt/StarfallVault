@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7b42feb6d618038",
+            "id": "b6c13c4bbec9da1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,8 +172,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e7b42feb6d618038",
+  "active": "b6c13c4bbec9da1b",
   "lastOpenFiles": [
+    "Character list.md",
     "Baeoria.md"
   ]
 }
