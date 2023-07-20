@@ -1,0 +1,1 @@
+Beautiful continent once ruled by the King.
